@@ -13,7 +13,7 @@ This API provides various endpoints to interact with Hypixel data, Minecraft Bed
 
 - Some endpoints require an API key for authentication.
 - Pass as query parameter `api_key` or header `X-API-Key`.
-- Example: `?api_key=your_secret_api_key_123`
+- Example: `?api_key=key`
 
 ---
 

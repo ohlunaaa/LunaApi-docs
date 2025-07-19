@@ -123,7 +123,7 @@ Creates a new mailbox.
 **Description:**  
 Deletes the mailbox with the specified ID.
 
-**Method:** DELETE  
+**Method:** GET  
 **Response:**  
 - 200/204: Successfully deleted.  
 - Error details on failure.

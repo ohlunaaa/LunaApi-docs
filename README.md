@@ -133,7 +133,7 @@ Deletes the mailbox with the specified ID.
 ### 5. `/scoreboard`
 
 **Description:**  
-Returns scoreboard data from various JSON files.
+Returns scoreboard data from hypixel.net.
 
 **Method:** GET  
 **Parameters:**  

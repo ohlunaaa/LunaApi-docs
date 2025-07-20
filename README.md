@@ -175,16 +175,44 @@ GET /player?name=LunaApi
 
 ```json
 {
-"BedWars Level": "1,266",
-"Beds Broken Overall": "13,731",
-"Final Kills Overall": "28,044",
-"First Login": "2017-07-08 19:12 EDT",
-"Guild Tag": "[LLC]",
-"Mode Stats": {},
-"Name": "LunaApi",
-"Network Level": "280.82",
-"Overall Stats": {},
-"Rank": "[MVP+]"
+  "BedWars Level": "17",
+  "Beds Broken Overall": "133",
+  "Final Kills Overall": "208",
+  "First Login": "2020-01-16 21:12 EST",
+  "Guild Tag": "Not found",
+  "Mode Stats": {
+    "3v3v3v3": {},
+    "4v4": {},
+    "4v4v4v4": {},
+    "Doubles": {},
+    "Solo": {
+      "Beds Broken": "97",
+      "Final Deaths": "91",
+      "Final K/D": "1.03",
+      "Final Kills": "94",
+      "Losses": "93",
+      "Normal Deaths": "159",
+      "Normal K/D": "0.91",
+      "Normal Kills": "145",
+      "W/L": "0.18",
+      "Wins": "17"
+    }
+  },
+  "Name": "LunaApi",
+  "Network Level": "49.16",
+  "Overall Stats": {
+    "Beds Broken": "133",
+    "Final Deaths": "369",
+    "Final K/D Ratio": "0.56",
+    "Final Kills": "208",
+    "K/D Ratio": "1.16",
+    "Losses": "372",
+    "Normal Deaths": "724",
+    "Normal Kills": "839",
+    "W/L Ratio": "0.08",
+    "Wins": "31"
+  },
+  "Rank": "[MVP+]"
 }
 ```
 

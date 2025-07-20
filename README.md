@@ -150,6 +150,46 @@ Returns scoreboard data from hypixel.net.
 
 ---
 
+## GET /player
+
+**Description:**  
+Returns BedWars mode-specific statistics for a Minecraft player 
+
+**Query Parameters:**
+
+| Parameter | Type   | Required | Description            |
+|-----------|--------|----------|------------------------|
+| `name`    | string | Yes      | Minecraft player name  |
+
+---
+
+### Example Request
+
+```http
+GET /player?name=LunaApi
+```
+
+---
+
+### Successful Response
+
+```json
+{
+"BedWars Level": "1,266",
+"Beds Broken Overall": "13,731",
+"Final Kills Overall": "28,044",
+"First Login": "2017-07-08 19:12 EDT",
+"Guild Tag": "[LLC]",
+"Mode Stats": {},
+"Name": "LunaApi",
+"Network Level": "280.82",
+"Overall Stats": {},
+"Rank": "[MVP+]"
+}
+```
+
+---
+
 
 ## Error Codes
 

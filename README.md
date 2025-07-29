@@ -229,4 +229,11 @@ GET /player?name=LunaApi
 | 404         | Resource not found             |
 | 500         | Internal server error          |
 
+## Lobby Websocket 
+
+To get acces join my discord https://discord.gg/dQCJfgsWkQ
+
+<img width="859" height="684" alt="image" src="https://github.com/user-attachments/assets/8edd4d5e-29e2-416b-95bf-402e1da7d925" />
+
+
 

@@ -4,7 +4,7 @@ This API provides various endpoints for retrieving Minecraft player data, Discor
 
 ## Base URL
 ```
-join the dc an do /api
+join the dc and do /api
 ```
 
 ## Endpoints
